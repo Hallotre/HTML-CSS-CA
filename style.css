@@ -49,6 +49,7 @@ body {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
+
 }
 
 .header::before {
@@ -135,6 +136,7 @@ body {
   border-radius: 16px;
   background:rgba(0, 0, 0, .4);
   backdrop-filter: blur(30px);
+  border: 1px solid hsla(0, 0%, 100%, 0.5);
 }
 
 #games .gamebox:hover {
@@ -180,6 +182,7 @@ input[type=submit]:hover {
   border-radius: 5px;
   background:rgba(0, 0, 0, .2);
   padding: 20px;
+  border: 1px solid hsla(0, 0%, 100%, 0.5);
 }
 
 /* Contact us text */
@@ -215,6 +218,16 @@ input[type=submit]:hover {
 #cdb:hover{
   background-color: #45a049;
 }
+
+
+
+
+.aboutus {
+  border: 1px solid hsla(0, 0%, 100%, 0.5);
+}
+
+
+
 
 
 /* FOOTER */
