@@ -411,6 +411,23 @@ input[type=submit]:hover {
 .cart-btn:hover {
   background-color: var(--btn-secondary);
 }
+.cart-btn-remove {
+  width: 200px; 
+  background-color: rgba(255, 0, 0, 0.674);
+  border-radius: 8px;
+  font-size: 18px;
+  color: #FFFFFF;
+  text-decoration: none;
+  padding: 15px 0; 
+  cursor: pointer;
+  border: none;
+  transition: background-color 0.3s ease;
+  text-align: center;
+}
+
+.cart-btn-remove:hover {
+  background-color: rgba(255, 0, 0, 0.76);
+}
 
 .cart-summary {
   display: flex;
@@ -477,7 +494,7 @@ input[type=submit]:hover {
   border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-input[type=text] {
+.pay-input {
   width: 100%;
   margin-bottom: 20px;
   padding: 12px;
@@ -485,7 +502,7 @@ input[type=text] {
   border-radius: 3px;
 }
 
-label {
+.pay-input {
   margin-bottom: 10px;
   display: block;
 }
@@ -496,7 +513,9 @@ label {
   font-size: 24px;
 }
 
-.btn {
+.btn-pay {
+  display: flex;
+  justify-content: center;  
   background-color: #04AA6D;
   color: white;
   padding: 12px;
@@ -506,9 +525,10 @@ label {
   border-radius: 3px;
   cursor: pointer;
   font-size: 17px;
+  text-decoration: none;
 }
 
-.btn:hover {
+.btn-pay:hover {
   background-color: #45a049;
 }
 
