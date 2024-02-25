@@ -1,2 +1,5 @@
-# HTML-CSS-CA
-Spaghetti code 
+# JS1-CA
+
+Spaghetti code
+
+Fuck styling.
