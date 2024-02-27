@@ -2,4 +2,4 @@
 
 Spaghetti code
 
-Fuck styling when i have less than 24 hours deadline . Just make it work :SMILE:
+Fuck styling less than 24 hours until deadline . Just make it work :SMILE:
