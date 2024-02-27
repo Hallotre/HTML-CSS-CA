@@ -4,13 +4,7 @@ const handlekurvContainer = document.querySelector(".handlekurv-container");
 const prisHandlekurv = document.querySelector(".pris-handlekurv");
 const kasseBtn = document.querySelector(".kasse-button");
 
-function skjulKasseKnappHvisTomHandlekurv() {
-    if (handlekurv.length === 0) {
-        kasseBtn.style.display = "none";
-    }
-}
 
-skjulKasseKnappHvisTomHandlekurv();
 
 function visHandlekurvPåNettsted(gameById) {
     handlekurvContainer.innerHTML = "";
