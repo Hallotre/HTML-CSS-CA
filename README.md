@@ -51,3 +51,9 @@ Please make sure to follow the Code of Conduct and review the Contributing Guide
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+
+## Contact
+If you have any questions or suggestions, feel free to open an issue or contact us at:
+
+GitHub Issues: https://github.com/Hallotre/HTML-CSS-CA/issues
