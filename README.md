@@ -2,7 +2,7 @@
 
 # GAMEHUB
 
-Welcome to the GAMEHUB project! This repository contains the code and resources for a web development project focused on creating a website for GAMEHUB using HTML and CSS.
+Welcome to the GAMEHUB project! This repository contains the code and resources for a web development project focused on creating a website for GAMEHUB using HTML, CSS and JS.
 
 ## Table of Contents
 
