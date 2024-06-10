@@ -9,7 +9,6 @@ Welcome to the GAMEHUB project! This repository contains the code and resources 
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
