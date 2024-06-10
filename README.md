@@ -26,7 +26,7 @@ The GAMEHUB project is designed to showcase web development skills in HTML and C
 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. 
 
 
 ## Contact
