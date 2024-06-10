@@ -26,28 +26,6 @@ The GAMEHUB project is designed to showcase web development skills in HTML and C
 - **Best Practices:** Examples of best practices in HTML and CSS coding.
 
 
-
-## Contributing
-
-We welcome contributions from the community! If you'd like to contribute, please follow these steps:
-
-Fork the repository.
-Create a new branch for your feature or bug fix:
- ```bash
-  git checkout -b feature/your-feature-name
-```
-Make your changes and commit them:
-```bash
-git commit -m "Add your commit message"
-```
-Push your changes to your forked repository:
-```bash
-git push origin feature/your-feature-name
-```
-Open a pull request on the main repository.
-Please make sure to follow the Code of Conduct and review the Contributing Guidelines before submitting your pull request.
-
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
